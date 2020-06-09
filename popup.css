@@ -1,0 +1,13 @@
+.carde{
+            display: flex;
+            flex-direction: column;
+            width: 320px;
+            align-items: center;
+        }
+        a{
+            font-size: 28px;
+        }
+        .boite{
+            display: flex;
+            flex-direction: row;
+        }
